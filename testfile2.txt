@@ -1,3 +1,4 @@
 2
 line added in "master" branch
 line 2 added in "master" branch
+line 3 added in "master" branch
